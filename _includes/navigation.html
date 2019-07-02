@@ -1,7 +1,18 @@
-<nav>
-    {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
-            {{ item.name }}
-        </a>
-    {% endfor %}
-</nav>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand">CySci Lab @ UTEP</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    {% for item in site.data.navigation %}
+                        <li class="nav-time">
+                            <a class="nav-link" href="{{ item.link }}" {% if page.url == / %}class="current"{% endif %}>
+                                {{ item.name }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+        </div>
+    </div>    
+</div>
