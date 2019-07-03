@@ -1,0 +1,31 @@
+- name: Deepak Tosh
+  photo: bio-photo.jpg
+  info: Assistant Professor, started Fall 2018
+  email: dktosh@utep.edu
+  number_educ: 5
+  education1: Education 
+  education2: Education
+  education3: Education
+  education4: Education
+  education5: Education
+  type: staff
+
+- name: Deepak Tosh
+  photo: rock.jpg
+  info: Assistant Professor, started Fall 2018
+  email: dktosh@utep.edu
+  number_educ: 3
+  education1: Education 
+  education2: Education
+  education3: Education
+  education4: 
+  education5: 
+  type: staff
+
+- name: Abel Gomezx
+  photo: rock.jpg
+  info: Master student
+  email: -@miners
+  number_educ: 0
+  education1:
+  type: phd
