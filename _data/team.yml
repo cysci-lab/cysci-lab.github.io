@@ -1,0 +1,47 @@
+- name: Deepak Tosh
+  photo: bio-photo.jpg
+  info: Assistant Professor, joined Fall 2018
+  email: dktosh@utep.edu
+  number_educ: 5
+  education1: Education 
+  education2: Education
+  education3: Education
+  education4: Education
+  education5: Education
+  type: 1
+
+- name: Abel Gomez
+  photo: bio-photo.jpg
+  info: PhD Student, joined Spring 2019
+  email: aogomezrive@miners.utep.edu
+  number_educ: 3
+  education1: Education 
+  education2: Education
+  education3: Education
+  education4: Education
+  education5: 
+  type: 2
+
+- name: Adeel Malik
+  photo: bio-photo.jpg
+  info: PhD Student, joined Spring 2019
+  email: amalik@miners.utep.edu
+  number_educ: 3
+  education1: Education 
+  education2: Education
+  education3: Education
+  education4: Education
+  education5: 
+  type: 2
+
+- name: Abel Gomez
+  photo: bio-photo.jpg
+  info: PhD Student, joined Fall 2018
+  email: edbuenrostro@miners.utep.edu
+  number_educ: 3
+  education1: Education 
+  education2: Education
+  education3: Education
+  education4: Education
+  education5: 
+  type: 2
